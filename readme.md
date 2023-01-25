@@ -1,0 +1,1 @@
+This repo is me building out a simple small version of gpt. I will be following along with an Andrej Karpathy lecture(https://www.youtube.com/watch?v=kCc8FmEb1nY).
